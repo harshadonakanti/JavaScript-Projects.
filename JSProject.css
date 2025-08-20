@@ -5,11 +5,12 @@ body{
 }
 h2{
   font-size: 35px;
-  user-select: none;
+  /* user-select: none; */
 }
 h3{
   font-size: 30px;
-  user-select: none;
+  /* user-select: none; */
+  color: brown;
 }
 .box-container{
   display: flex;
